@@ -4,7 +4,7 @@
     <title> Heidin sivut</title>   
 </head>
 
-<body>
+
 
 <h1> Lorem ipsum </h1>
 
